@@ -5,11 +5,11 @@
 
 ## 🙋‍♂️ About Me
  👋 Hola, I’m @RitikaMukherjee /-Ritika Mukherjee
-- 👀 I’m interested in c / java 
+- 👀 I’m interested in SQL / Python 
 <!-- - 🌱 I’m currently learning  flutter / web-devlopement/ python / -->
-- 💞️ I’m looking to collaborate with java / problem Solving
+- 💞️ I’m looking to collaborate with Data related solutions
 <!-- - ✔ Twitter: [`@I_am_dev_deep`](https://twitter.com/I_am_dev_deep) -->
-- 📧 Email Id: `rima.snt99@gmail.com`
+- 📧 Email Id: `rima.slg1999@gmail.com`
 
 ## 🚀 Languages and Tools:
 
